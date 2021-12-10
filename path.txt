@@ -1,0 +1,4 @@
+X:
+cd Tri-Cities Map Website Hugo\TCM-Website-Dev
+hugo server
+http://localhost:1313
