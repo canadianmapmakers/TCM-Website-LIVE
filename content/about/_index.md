@@ -45,12 +45,7 @@ Produced by Canadian Map makers, this outdoor adventure map covers the Tri-Citie
 
 * **-> Maps donated to Coquitlam Search and Rescue for all their operational needs.**
 
-![](/spacer.png)  
-#### FREE Tri-Cities e-map on OVERDUE
-![](/TCM-in-hand.jpg)  
 
-With the Tri-Cities paper map comes with an access code to enable FREE access to the e-map on the OVERDUE App.
-Go to <a>https://overdue.info/</a> for more details about OVERDUE.
 
 ![](/spacer.png)
 
